@@ -31,17 +31,19 @@ a.unlv-button {
 img {
     width: 100%;  
 }
+.container1 {
+    border: ;
+    width: 100%;
+    background: url('Images/horizontal.JPG');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
 
 .container1 div {
     color: white;
-    margin: 5px;
+    margin: 10px;
     background: rgba(205, 5, 172, 0.4);   
     width: 65%;
-
-    position: relative;
-    left: 30px;
-    bottom: 300px;
-    z-index: 1;
     justify-content: space-evenly;
 } 
 .grid1 img {
